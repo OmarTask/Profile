@@ -10,3 +10,8 @@ hr {
   width: 5%;
 }
 
+.face {
+  position: relative;
+  left: 50%;
+}
+
